@@ -1,1 +1,1 @@
-# ahb-lite-to-apb-bridge
+# AHB-lite-to-APB-bridge
