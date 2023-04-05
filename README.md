@@ -11,4 +11,7 @@ The bridge module also handles the arbitration of bus access between the AHB-Lit
 Overall, the AHB-Lite to APB bridge module is a crucial component in SoC designs that allows for the seamless integration of different bus protocols, enabling the efficient and effective operation of the entire system.
 ---
 UVM Author : Mohammed Abdul Haq
+
+Linkedin ID: https://www.linkedin.com/in/mohammed-abdul-haq-717678142/
+
 RTL Code Credits : Tech Mahindra Cerium
