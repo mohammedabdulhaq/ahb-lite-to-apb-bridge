@@ -1,4 +1,4 @@
-# Verificaton of AHB Lite to APB Bridge using UVM
+# Verificaton of AHB Lite to APB Bridge in UVM
 
 The AHB-Lite to APB bridge module is a hardware module that facilitates communication between two different bus protocols in a System-on-Chip (SoC) design. The AHB-Lite (Advanced High-performance Bus Lite) and APB (Advanced Peripheral Bus) are two popular bus protocols used in SoC designs.
 
